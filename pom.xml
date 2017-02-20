@@ -22,8 +22,6 @@
 
     <modules>
         <module>Yamler-Core</module>
-        <module>Yamler-Bungee</module>
-        <module>Yamler-Bukkit</module>
     </modules>
 
     <build>
